@@ -1,0 +1,11 @@
+1. buat inframe gambar bagian paling atas (virtual home page )  https://kuula.co/about
+2. bagian fasilitas dan sarana dengan copotan dari web index lama
+3. bikin tampilan untuk halaman wisata ketika di klik. ( menjadi virtual )
+4. menagganti gambar dihalaman login (sesuai Logo Kitayo)
+5. perencanaan untuk menambahkan Crud gambar dihalaman admin (uji coba)
+6.flowcharty
+
+
+
+
+https://www.youtube.com/watch?v=1AsvR29dGao
